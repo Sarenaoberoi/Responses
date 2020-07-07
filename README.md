@@ -1,3 +1,3 @@
 # Responses
 
-1) [Maroney 1](https://github.com/Sarenaoberoi/Responses/blob/master/maroney1.md) (July, 7)
+1) [Maroney 1](https://Sarenaoberoi.github.io/Responses/maroney1) (July, 7)
