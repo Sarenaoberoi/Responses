@@ -4,4 +4,4 @@ Maroney Lecture #1
 
 2) The first time I ran the predict line with value '7', I received an output of 22.002316. The second time I ran the predict line with the same value, I received an output value of 22.00009. Every time the code runs, it goes through a loop that begins at the loss (how much error was in that guess) and then goes back to the optimizer to produce another guess. Following this, the optimizer value will go back to the loss and determine the amount of error in that guess. This loop continues to go on: loss to optimizer and so on. 
 
-3) 
+3) After fitting the new houses to the model, the model predicted 1.66 for 2 beds, 2.19 for 3 beds, 2.729 for 4 beds, and 3.262 for 5 beds. Based on the models predictions, it seems that the best deal was the house 'Hudgins' (3 bedroom house costing $97,000). It seems that the worst deal was the house 'Church' (with 4 bedrooms costing $399,000).
