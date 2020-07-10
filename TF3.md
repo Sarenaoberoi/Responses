@@ -4,8 +4,7 @@
 
 3) 
 
-
-
+<img width="436" alt="Screen Shot 2020-07-10 at 2 20 19 PM" src="https://user-images.githubusercontent.com/60228365/87185964-a9659800-c2b8-11ea-8855-925e4ea08482.png">
 
 
 
