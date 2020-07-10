@@ -4,4 +4,4 @@
 
 2) [Maroney 2](https://Sarenaoberoi.github.io/Responses/maroney2) (July, 8)
 
-3) [TF Response 3](https://Sarenaoberoi.github.io/Responses/tf3) (July, 9)
+3) [TF Response 3](https://Sarenaoberoi.github.io/Responses/TF3) (July, 9)
