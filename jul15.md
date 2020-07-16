@@ -13,7 +13,7 @@ CODE PART:
 how do they resize?
 filter on CONV2D- how do image sizes decrease
 
-****which activation function selected for output?
+which activation function selected for output? - the sigmoid is the activation function and works by setting a class to either 0 or 1
 
 using target_size we resized the images to 150, 150
 
