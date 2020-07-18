@@ -15,7 +15,7 @@
 
 6) [Response 2](https://Sarenaoberoi.github.io/Responses/jul15) (July, 15)
 
-7) [Project 2](https://Sarenaoberoi.github.io/Responses/proj2)
+7) [Project 2](https://Sarenaoberoi.github.io/Responses/proj2) (July, 16)
 
 
 
