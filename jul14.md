@@ -24,7 +24,7 @@ As you apply the filter to your original array, you are multiplying each pixel's
 
 ### B.
 
-The pooling image became slighly blurry and grainy. This is the image I expected, however, because pooling works by extracting all of the extraneous information from the image (keeping all of the important features of that image). All of the main features of the image were preserved. 
+The pooling image became slighly blurry and grainy. This is the image I expected, however, because pooling works by extracting all of the extraneous information from the image (keeping all of the important features of that image). All of the main features of the image were preserved. The pooling used was max pooling, and this is evident because of this line of code: pixels.sort(reverse=True). 
 
 <img width="496" alt="pooling" src="https://user-images.githubusercontent.com/60228365/87466458-48093600-c5e4-11ea-9233-9b4bb9288ed0.png">
 Pooling
@@ -32,7 +32,7 @@ Pooling
 
 ### C. 
 
-It seems that by adding the Conv2D and MaxPooling2D layers, the accuracy of the neural network improved. Without any convolutions the accuracy was 0.9744. However, after the convolutions were added with 32 neurons, the accuracy increased to 0.9916. When the convolutions were changed from 32 to 16, the accuracy decreased very slightly. It decreased from 0.9916 to 0.990. This is plausible because the number of neurons decreased so accruacy decreased as well.
+It seems that by adding the Conv2D and MaxPooling2D layers, the accuracy of the neural network improved. Without any convolutions the accuracy was 0.9744. However, after the convolutions were added with 32 neurons, the accuracy increased to 0.9916. When the convolutions were changed from 32 to 16, the accuracy decreased very slightly. It decreased from 0.9916 to 0.990. This is plausible because the number of layers decreased so accruacy decreased as well.
 <img width="564" alt="Screen Shot 2020-07-14 at 2 42 45 PM" src="https://user-images.githubusercontent.com/60228365/87466469-4b9cbd00-c5e4-11ea-8c14-1df29eb98f2e.png">
 Box of 12 images
 
