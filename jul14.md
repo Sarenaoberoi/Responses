@@ -37,7 +37,7 @@ Pooling
 
 ### C. 
 
-It seems that by adding the Conv2D and MaxPooling2D layers, the accuracy of the neural network improved. Without any convolutions the accuracy was 0.9744. However, after the convolutions were added with 32 neurons, the accuracy increased to 0.9916. When the convolutions were changed from 32 to 16, the accuracy decreased very slightly. It decreased from 0.9916 to 0.990. This is plausible because the number of layers decreased so accruacy decreased as well.
+It seems that by adding the Conv2D and MaxPooling2D layers, the accuracy of the neural network improved. Without any convolutions the accuracy was 0.9744. However, after the convolutions were added with 32 neurons, the accuracy increased to 0.9916. When the convolutions were changed from 32 to 16, the accuracy decreased very slightly. It decreased from 0.9916 to 0.989. This is plausible because the number of layers decreased so accruacy decreased as well. Without convolutions, the run time for each epoch was an average of 3 seconds. With the convolutions (32) the average run time for each epoch was 42 seconds. With the convolutions (16) the run time for each epoch was approximatley 30 seconds. Adding 1 more convolution layer increased the accuracy from 0.989 to 0.974 with 28 seconds per epoch (accuracy decreased, probably due to overfitting).   
 <img width="564" alt="Screen Shot 2020-07-14 at 2 42 45 PM" src="https://user-images.githubusercontent.com/60228365/87466469-4b9cbd00-c5e4-11ea-8c14-1df29eb98f2e.png">
 Box of 12 images
 
