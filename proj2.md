@@ -11,4 +11,4 @@ The two images I used:
 
 
  
-I thought that a robot would be an interesting shirt idea since we are currently taking applied machine learning and will soon learn about artifical intelligence in ethics. I picked the image of the water and sunset because the still water reminded me of calmness and serenity. This summer was very busy and I thought that choosing this image would remind me to relax and take a step back to experience nature and all of the beautiful things that surround me. 
+I thought that a robot would be an interesting shirt idea since we are currently taking applied machine learning and will soon learn about artifical intelligence in ethics. I picked the image of the water and sunset because the still water held a certain calmness and serenity. This summer was very busy and I thought that choosing this image would remind me to relax and take a step back to experience nature and all of the beautiful things that surround me. 
