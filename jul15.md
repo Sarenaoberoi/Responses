@@ -9,7 +9,11 @@
 
 1) This graph allows you compare the different variables by creating a graph for each variable agaisnt another. The graph at the top left shows the variable 'MPG' compared with the same variable 'MPG'. The graph is a normal distribution meaning that these two variables have a high correlation. You can compare the different variables by observing how close the bell curves is to a normal distribution for each variable comparison.
 
-2) the loss decreased and the validation increased fro themost part 
+2) It seemed that the amount of loss fluctuated in the last 5 epochs. The lowest amount of loss was in epoch number 996. The plot also shows this. Most of the points are close to the line, but if you look at the top right you can see that there are two points that stray far from the line. 
+<img width="306" alt="Screen Shot 2020-07-17 at 10 14 51 PM" src="https://user-images.githubusercontent.com/60228365/87844028-eae0df00-c886-11ea-84bf-50922a9bed57.png">
 
-in the last 5 you an see that the loss kind of fluctuated throughout the last 5 but towards the end the total loss decreased !!!! idk 
+
+## C
+
+1) After looking at the graph with the tiny, small, medium, and large training and testing sets, I noticed that the tiny one performed the best. This can be concluded as the tiny traning and the tiny validiation lines are closer to each other than any other pair is. This means that both the training and validation were going in the same direction and performed similarily. 
 
