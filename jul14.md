@@ -24,7 +24,12 @@ As you apply the filter to your original array, you are multiplying each pixel's
 
 ### B.
 
-The pooling image became slighly blurry and grainy. This is the image I expected, however, because pooling works by extracting all of the extraneous information from the image (keeping all of the important features of that image). All of the main features of the image were preserved. The pooling used was max pooling, and this is evident because of this line of code: pixels.sort(reverse=True). 
+The pooling image became slighly blurry and grainy. This is the image I expected, however, because pooling works by extracting all of the extraneous information from the image (keeping all of the important features of that image). All of the main features of the image were preserved. The results decreased in size. The scales on both the x-axix and y-axis decreaesd from 500 (non-pooling) to 250 (pooling). The pooling used was max pooling, and this is evident because of the last couple lines of code: 
+    pixels.append(i_transformed[x+1, y+1])
+    pixels.sort(reverse=True)
+    newImage[int(x/2),int(y/2)] = pixels[0]
+   
+ 
 
 <img width="496" alt="pooling" src="https://user-images.githubusercontent.com/60228365/87466458-48093600-c5e4-11ea-9233-9b4bb9288ed0.png">
 Pooling
