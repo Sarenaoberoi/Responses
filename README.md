@@ -13,7 +13,7 @@
   
 5) [Response 1](https://Sarenaoberoi.github.io/Responses/jul14) (July, 14)
 
-6) [Response 2]() (July, 15)
+6) [Response 2](https://Sarenaoberoi.github.io/Responses/jul15) (July, 15)
 
 7) [Project 2](https://Sarenaoberoi.github.io/Responses/proj2)
 
