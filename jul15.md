@@ -7,10 +7,9 @@
 
 ## B
 
-1) This graph shows you linear regression or logistic regression or something like that and you can use it to compare the different graphs bc the top one is a normal distribution and you want the closest to a nomeal or gaussian distritubiton as possible 
+1) This graph allows you compare the different variables by creating a graph for each variable agaisnt another. The graph at the top left shows the variable 'MPG' compared with the same variable 'MPG'. The graph is a normal distribution meaning that these two variables have a high correlation. You can compare the different variables by observing how close the bell curves is to a normal distribution for each variable comparison.
 
-
-the loss decreased and the validation increased fro themost part 
+2) the loss decreased and the validation increased fro themost part 
 
 in the last 5 you an see that the loss kind of fluctuated throughout the last 5 but towards the end the total loss decreased !!!! idk 
 
