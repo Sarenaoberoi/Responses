@@ -12,8 +12,11 @@
 2) It seemed that the amount of loss fluctuated in the last 5 epochs. The lowest amount of loss was in epoch number 996. The plot also shows this. Most of the points are close to the line, but if you look at the top right you can see that there are two points that stray far from the line. 
 <img width="306" alt="Screen Shot 2020-07-17 at 10 14 51 PM" src="https://user-images.githubusercontent.com/60228365/87844028-eae0df00-c886-11ea-84bf-50922a9bed57.png">
 
-
+<img width="556" alt="Screen Shot 2020-07-17 at 9 12 26 PM" src="https://user-images.githubusercontent.com/60228365/87844666-5463ec00-c88d-11ea-8ca0-f392c3dba7e3.png">
 ## C
 
 1) After looking at the graph with the tiny, small, medium, and large training and testing sets, I noticed that the tiny one performed the best. This can be concluded as the tiny traning and the tiny validiation lines are closer to each other than any other pair is. This means that both the training and validation were going in the same direction and performed similarily. 
+
+<img width="453" alt="Screen Shot 2020-07-18 at 12 25 15 AM" src="https://user-images.githubusercontent.com/60228365/87844664-5037ce80-c88d-11ea-80c2-f8d503bf836e.png">
+
 
