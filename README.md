@@ -1,5 +1,8 @@
 # My Responses!
 
+
+### Week 1
+
 1) [Response 1 (Maroney)](https://Sarenaoberoi.github.io/Responses/maroney1) (July, 7)
 
 2) [Response 2 (Maroney)](https://Sarenaoberoi.github.io/Responses/maroney2) (July, 8)
@@ -9,7 +12,9 @@
 4) [Social Distance Project 1](https://youtu.be/5cCen4sSOXs) (July, 10) 
     
   4a. [Social Distance Response](https://Sarenaoberoi.github.io/Responses/responseproj)
-  
+
+
+### Week 2
   
 5) [Response 1](https://Sarenaoberoi.github.io/Responses/jul14) (July, 14)
 
