@@ -41,7 +41,18 @@ Redefine your classifier using the DNNLinearCombinedClassifier() as well as the 
 
 ### Build a Linear Model
 
+##### 1. 
 Using the dftrain dataset, upload an image where you used the seaborn library to produce a sns.pairplot().  Also include a histogram of age using the training set and compare it to the seaborn plot for that same feature (variable).  What interpretation can you provide of the data based on this plot?
+
+After looking at the graph for age, it seems that the median age was late 20's. This graph of age can also be seen on the top left of the sns plots as well. 
+
+##### 2. 
+A categorial column is when a column only containing numercial data
+
+##### 3. 
+
+
+
 
 
 
