@@ -10,4 +10,6 @@ Diabetes is a very prevalent disease around the world, with over 30.3 million di
 I will create a poster that includes a portion for the introduction of the disease as well as another portion for the introduction of a convolutional neural network (and what it is used for in this study), conclusion of the study (how accurate the network was), and another portion for some of the code I used and how the network was created and performed. 
 
 
-#### D:
+#### D: 
+##### 1) 
+The optimizer used for this exercise was the RMSprop optimizer. This optimizer was paired with a high learning rate (lr = 0.001) in order to help the model perform better. The RMSprop optimizer works by 
