@@ -84,3 +84,5 @@ There is a metric= argument in our model.compile() function is very important in
 
 <img width="554" alt="Screen Shot 2020-07-20 at 5 08 48 PM" src="https://user-images.githubusercontent.com/60228365/88055901-b478bd80-cb2d-11ea-9c19-90d7d0a129a4.png">
 
+It seems that the model was able to get most of the images right, but it had a hard time distinguishing cats. The model got 2 out of the 3 cats right. I think that this model is able to understand dogs for the most part, but has trouble distinguishing cats. One way to fix this would be to increase the number of training images inputted in to the model. That way, the model can get a better understanding of what cats look like so it can perform better when put in practice.  
+
