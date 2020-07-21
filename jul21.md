@@ -6,14 +6,15 @@ The labels were split from the training set using this line of code:
 train_y = train.pop('Species')
 test_y = test.pop('Species')
 
-The name of the labels dataset was 'train_y' and 'test_y'.
+The name of the labels dataset was 'species' and it told you the names of the 3 different species: Setosa, Versicolor, and Virginica.
 
 #### 2.
 - tf.estimator.DNNclassifier
 - tf.estimator.DNNLinearCombinedClassifier
 - tf.estimator.LinearClassifier
-- tf.estimator.WarmStartSettings
-- tf.estimator.ModeKeys.PREDICT
+- tf.estimator.BaselineEstimator
+- tf.estimator.BoostedTreesEstimator
+- tf.estimator.BinaryClassHead
 
 #### 3.
 The purpose of the input functions is to provide a place to include training, testing, and prediction data. Within this fuction you can also add code that works to convert the input data into a dataset or dataframe. The feature columns are put in so that the model knows the list of features it should use. The feature colomuns tells you how to use the data that was inputted. 
