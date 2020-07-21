@@ -29,6 +29,7 @@ There is a metric= argument in our model.compile() function is very important in
 
 <img width="491" alt="Screen Shot 2020-07-21 at 8 36 08 AM" src="https://user-images.githubusercontent.com/60228365/88055663-5cda5200-cb2d-11ea-8833-ea1327e64ba0.png">
 
+The first graph shows that both the training and validation accuracy were going up for the most part, meaning that the models accuracy did go up for each epoch. In the second graph (loss), it is evident that the validation line (blue) is going up, which is a clear sign of overfitting. However, in the loss graph, the training data did perform pretty well and the loss did go down for the most part. 
 
 
 #### 5)
