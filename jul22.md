@@ -8,5 +8,8 @@ Dense features are commonly used to specify the absence and presence of data. By
 
 #### 3. 
 The accuracy for the logistic regression was 0.765, while the accuracy for the boosted tree model was 0.818. The graph shows that the boosted tree model had a higher frequency (approximatley 80) with a probability of around 0.75 chance of survival, while the logitic regression had a lower frequency (approximatley 70) with a 0.75 probability of survival. The boosted model also showed a higher frequency of individuals with a 100% probability of survival, while the logistic regression showed a much lower frequency for 100% chance of survival. At first, the ROC graph shows that the true postive rate increased rapidly, while the false positive rate reamined static (at 0). However, the ROC graph shows that as the false positive rate increases, the true positive rate increased as well. The AUC value is 0.876615 (very high) indicating a very good predictive model (more area under the curve). 
+<img width="445" alt="Screen Shot 2020-07-22 at 6 57 42 PM" src="https://user-images.githubusercontent.com/60228365/88238925-023a1680-cc51-11ea-9633-ae6657153d39.png">
+<img width="427" alt="Screen Shot 2020-07-22 at 6 56 53 PM" src="https://user-images.githubusercontent.com/60228365/88238928-0403da00-cc51-11ea-8e77-678a55d8875e.png">
+<img width="435" alt="Screen Shot 2020-07-22 at 6 35 55 PM" src="https://user-images.githubusercontent.com/60228365/88238942-082ff780-cc51-11ea-9fb6-cb529e7a303b.png">
 
-
+### B. Boosted Trees continued (with model understanding)
