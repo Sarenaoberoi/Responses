@@ -29,4 +29,4 @@
 
 2) [Response 2]() (July, 21)
 
-3) [Response 3)() (July, 22)
+3) [Response 3)(https://Sarenaoberoi.github.io/Responses/jul22) (July, 22)
