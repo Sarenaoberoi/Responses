@@ -55,7 +55,7 @@ Prediction is "Setosa" (91.1%), expected "Setosa"
 Prediction is "Versicolor" (48.2%), expected "Versicolor"
 Prediction is "Virginica" (71.7%), expected "Virginica"
 
-
+The LinearClassifier performed the best, the DNNLinearCombinedClassifier performed the second best, and the DNNClassifier performed the worst. 
 
 
 
