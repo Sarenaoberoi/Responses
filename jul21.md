@@ -35,16 +35,22 @@ It takes the input_fn we defined above as well as the data from training set.
 
 #### 5.
 tf.estimator.LinearClassifier:
+
+
 Prediction is "Setosa" (99.1%), expected "Setosa"
 Prediction is "Versicolor" (97.2%), expected "Versicolor"
 Prediction is "Virginica" (95.9%), expected "Virginica" 
 
 tf.estimator.DNNLinearCombinedClassifier:
+
+
 Prediction is "Setosa" (92.1%), expected "Setosa"
 Prediction is "Versicolor" (69.3%), expected "Versicolor"
 Prediction is "Virginica" (74.2%), expected "Virginica"
 
 tf.estimator.DNNClassifier:
+
+
 Prediction is "Setosa" (91.1%), expected "Setosa"
 Prediction is "Versicolor" (48.2%), expected "Versicolor"
 Prediction is "Virginica" (71.7%), expected "Virginica"
