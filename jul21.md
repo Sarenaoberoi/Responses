@@ -65,8 +65,15 @@ The LinearClassifier performed the best, the DNNLinearCombinedClassifier perform
 
 ##### 1. 
 Using the dftrain dataset, upload an image where you used the seaborn library to produce a sns.pairplot().  Also include a histogram of age using the training set and compare it to the seaborn plot for that same feature (variable).  What interpretation can you provide of the data based on this plot?
+<img width="581" alt="Screen Shot 2020-07-21 at 2 39 30 PM" src="https://user-images.githubusercontent.com/60228365/88241684-d884ed80-cc58-11ea-98dc-45ef5c0cf8de.png">
+
+
+<img width="1272" alt="Screen Shot 2020-07-21 at 2 45 20 PM" src="https://user-images.githubusercontent.com/60228365/88241688-dc187480-cc58-11ea-93f0-49649a0968ab.png">
+
 
 After looking at the graph for age, it seems that the median age was late 20's. This graph of age can also be seen on the top left of the sns plots as well. 
+
+
 
 ##### 2. 
 A categorial column is when a column only containing numercial data
