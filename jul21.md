@@ -36,8 +36,21 @@ It takes the input_fn we defined above as well as the data from training set.
 #### 5.
 
 Redefine your classifier using the DNNLinearCombinedClassifier() as well as the LinearClassifier().  Retrain your model and compare the results using the three different estimators you instantiated.  Rank the three estimators in terms of their performance
+Prediction is "Setosa" (91.1%), expected "Setosa"
+Prediction is "Versicolor" (48.2%), expected "Versicolor"
+Prediction is "Virginica" (71.7%), expected "Virginica"
+^^ tf.estimator.DNNClassifier
+
+Prediction is "Setosa" (92.1%), expected "Setosa"
+Prediction is "Versicolor" (69.3%), expected "Versicolor"
+Prediction is "Virginica" (74.2%), expected "Virginica"
+^^ COMBINED DID
 
 
+Prediction is "Setosa" (99.1%), expected "Setosa"
+Prediction is "Versicolor" (97.2%), expected "Versicolor"
+Prediction is "Virginica" (95.9%), expected "Virginica"
+^^ LINEAR DID THE BEST 
 
 ### Build a Linear Model
 
