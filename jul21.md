@@ -6,7 +6,7 @@ The labels were split from the training set using this line of code:
 train_y = train.pop('Species')
 test_y = test.pop('Species')
 
-The name of the labels dataset was 'species' and it told you the names of the 3 different species: Setosa, Versicolor, and Virginica.
+The name of the labels dataset was 'species' and it contained the names of the 3 different species: Setosa, Versicolor, and Virginica.
 
 #### 2.
 - tf.estimator.DNNclassifier
@@ -17,8 +17,7 @@ The name of the labels dataset was 'species' and it told you the names of the 3 
 - tf.estimator.BinaryClassHead
 
 #### 3.
-The purpose of the input functions is to provide a place to include training, testing, and prediction data. Within this fuction you can also add code that works to convert the input data into a dataset or dataframe. The feature columns are put in so that the model knows the list of features it should use. The feature colomuns tells you how to use the data that was inputted. 
-
+The purpose of the input functions is to provide a place to include training, testing, and prediction data. Within this fuction you can also add code that works to convert the input data into a dataset or dataframe. The feature columns included so that the model knows the list of features it should use. The feature colomuns specifies how the data inputted will be read into the model for training. 
 #### 4. 
 Describe the command classifier.train() in detail.  What is the classifier and how did you define it?  Which nested function (and how have you defined it) are you applying to the training and test detests?
 
@@ -76,7 +75,7 @@ After looking at the graph for age, it seems that the median age was late 20's. 
 
 
 ##### 2. 
-A categorial column is when a column only containing numercial data
+A categorial column is when a column only containing numercial data 
 
 ##### 3. 
 
