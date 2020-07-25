@@ -79,6 +79,10 @@ A categorial column is when a column only containing numercial data
 
 ##### 3. 
 
+<img width="456" alt="Screen Shot 2020-07-24 at 11 00 37 PM" src="https://user-images.githubusercontent.com/60228365/88447475-9cd95780-ce01-11ea-8c13-d7ec42dc5cf4.png">
+
+
+<img width="428" alt="Screen Shot 2020-07-24 at 11 01 00 PM" src="https://user-images.githubusercontent.com/60228365/88447476-9f3bb180-ce01-11ea-893e-b035f493023f.png">
 
 
 
