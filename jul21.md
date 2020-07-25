@@ -19,7 +19,7 @@ The name of the labels dataset was 'species' and it contained the names of the 3
 #### 3.
 The purpose of the input functions is to provide a place to include training, testing, and prediction data. Within this fuction you can also add code that works to convert the input data into a dataset or dataframe. The feature columns are included so that the model knows the list of features it should use. The feature colomuns specifies how the data inputted will be read into the model for training. 
 #### 4. 
-Describe the command classifier.train() in detail.  What is the classifier and how did you define it?  Which nested function (and how have you defined it) are you applying to the training and test detests?
+
 
 The command classifier.train() works to train the model. We defined classifier in a couple cells above:
 classifier = tf.estimator.DNNClassifier(
@@ -29,7 +29,7 @@ classifier = tf.estimator.DNNClassifier(
     # The model must choose between 3 classes.
     n_classes=3)
 
-It takes the input_fn we defined above as well as the data from training set. 
+The classifier was defined using a deep neural network classifier. It takes the input_fn we defined above as well as the data from training set. 
 
 
 #### 5.
