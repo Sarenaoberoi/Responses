@@ -21,7 +21,7 @@ The purpose of the input functions is to provide a place to include training, te
 #### 4. 
 
 
-The command classifier.train() works to train the model. We defined classifier in a couple cells above:
+The command classifier.train() works to train the model. We defined classifier in a couple cells above (using a deep neural network):
 classifier = tf.estimator.DNNClassifier(
     feature_columns=my_feature_columns,
     # Two hidden layers of 30 and 10 nodes respectively.
@@ -29,7 +29,7 @@ classifier = tf.estimator.DNNClassifier(
     # The model must choose between 3 classes.
     n_classes=3)
 
-The classifier was defined using a deep neural network classifier. It takes the input_fn we defined above as well as the data from training set. 
+It takes the input_fn we defined above as well as the data from training set. 
 
 
 #### 5.
