@@ -9,12 +9,12 @@ test_y = test.pop('Species')
 The name of the labels dataset was 'species' and it contained the names of the 3 different species: Setosa, Versicolor, and Virginica.
 
 #### 2.
-- tf.estimator.DNNclassifier
-- tf.estimator.DNNLinearCombinedClassifier
-- tf.estimator.LinearClassifier
-- tf.estimator.BaselineEstimator
-- tf.estimator.BoostedTreesEstimator
-- tf.estimator.BinaryClassHead
+- tf.estimator.DNNclassifier: deep neural network classifier 
+- tf.estimator.DNNLinearCombinedClassifier: Joint estimator for both DNN and linear classifiers
+- tf.estimator.LinearClassifier: Used for linear classifier 
+- tf.estimator.BaselineEstimator: used to give user an easy baseline of model 
+- tf.estimator.BoostedTreesEstimator: used for boosted trees model 
+- tf.estimator.BinaryClassHead: Gives you the first 5 values (head) of a binary classification
 
 #### 3.
 The purpose of the input functions is to provide a place to include training, testing, and prediction data. Within this fuction you can also add code that works to convert the input data into a dataset or dataframe. The feature columns are included so that the model knows the list of features it should use. The feature colomuns specifies how the data inputted will be read into the model for training. 
