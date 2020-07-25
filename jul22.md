@@ -14,6 +14,9 @@ The accuracy for the logistic regression was 0.765, while the accuracy for the b
 
 <img width="427" alt="Screen Shot 2020-07-22 at 6 56 53 PM" src="https://user-images.githubusercontent.com/60228365/88238928-0403da00-cc51-11ea-8e77-678a55d8875e.png">
 
+<img width="443" alt="Screen Shot 2020-07-24 at 10 51 41 PM" src="https://user-images.githubusercontent.com/60228365/88447355-53d4d380-ce00-11ea-9cf4-7a3233c8f707.png">
+
+
 <img width="435" alt="Screen Shot 2020-07-22 at 6 35 55 PM" src="https://user-images.githubusercontent.com/60228365/88238942-082ff780-cc51-11ea-9fb6-cb529e7a303b.png">
 
 ### B. Boosted Trees continued (with model understanding)
