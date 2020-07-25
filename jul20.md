@@ -73,6 +73,7 @@ The first graph shows that both the training and validation accuracy were going 
 
 ![FUNNYDOG](https://user-images.githubusercontent.com/60228365/88055855-a4f97480-cb2d-11ea-8e5a-013e98c16074.jpg)
 
+(This one was just for fun)
 
 <img width="622" alt="Screen Shot 2020-07-20 at 5 08 12 PM" src="https://user-images.githubusercontent.com/60228365/88055868-a9be2880-cb2d-11ea-891f-7236f7b08e1e.png">
 
