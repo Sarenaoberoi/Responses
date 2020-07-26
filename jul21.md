@@ -75,7 +75,7 @@ After looking at the graph for age, it seems that the median age was late 20's. 
 
 
 ##### 2. 
-A categorial column a column containing only numercial, discrete values. A dense feature is slightly more complicated, in that it works to extract important features from an image. It is possible to break an image up into multiple dense features, with each dense feature including meaningful information from the image. By using dense features, users are able to get an in depth view of every feature in an image.     
+A categorial column a column containing non-numercial values. A dense feature is slightly more complicated, in that it works to extract important features from an image. It is possible to break an image up into multiple dense features, with each dense feature including meaningful information from the image. By using dense features, users are able to get an in depth view of every feature in an image.     
 
 ##### 3. 
 
