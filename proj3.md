@@ -1,4 +1,4 @@
-###Project 3
+### Project 3
 
 The first step in doing this project was importing the 10,000 images into pycharms. I split my images up into two groups: testing images (accraims) with 9,000 images and testing images (testing) with 1,000 images. After bringing the images in, I made sure to check the length of the images and labels to make sure they were lining up. Following this, I divided the training images and testing images by 255.0 to normalize the images. I began by creating a DNN model and then moved to the CNN model. For the DNN model, I included 1 flatten layer, and 3 dense layers (64, 64, and 1). Then I added in 3 convolutions (16, 32, and 64). Each of these convolutions had the activation= ‘relu’. 
 
