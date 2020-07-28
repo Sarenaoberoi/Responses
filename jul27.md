@@ -24,4 +24,4 @@ This image showed a number of trees. The population predicted for this image was
 
 This last image showed a couple hosues (similar to image number 3). The model predicted a poulation of 27.415765. 
 
-This model worked pretty well 
+I think that this model works relatively well but struggles to   
