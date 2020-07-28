@@ -24,4 +24,4 @@ This image showed a number of trees. The population predicted for this image was
 
 This last image showed a couple hosues (similar to image number 3). The model predicted a poulation of 34.3583 while the true poulation from the csv file was 27.415765. 
 
-I think that this model works relatively well but struggles to   
+I think that this model works relatively well for the most part. Most of my model's predictions were pretty close to the real value (except for image 2). I think that I could've gotten more accurate predictions if I trained the model on more images. For predictions, I decreased both the training and testing images to 100. As we talked about in class, there were a couple problems with the data. One problem was that the raster population counts and the population counts from the orthoimages were not perfectly aligned whcih could have caused accuracy to decrease.  
