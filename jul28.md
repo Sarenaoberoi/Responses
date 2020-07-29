@@ -5,10 +5,18 @@ As talked about in the tensorflow exercise and Lawrence Maroney's video, one-hot
 
 ADD PIC 
 
-As we can see from the picture above, the majority of spaces are 0 (a sparse vector). Because of this, one-hot encoding is pretty inefficient. In order to create a more dense vector, known as word embeddings, we could assign a different number to each word. For example, for the sentence "The chocolate cake is good", 
+As we can see from the picture above, the majority of spaces are 0 (a sparse vector). Because of this, one-hot encoding is pretty inefficient. In order to create a more dense vector, known as word embeddings, we could assign a different number to each word. For example, for the sentence "the chocolate is in the cabinet", the to 1, chocolate to 2, is to 3, in to 4, and cabinet to 5:
+
+[1, 2, 3, 4, 1, 5]
+
+This method is much more efficient. 
 
 
 2.Compile and train the model from the tensorflow exercise.  Plot the training and validation loss as well as accuracy.  Post your plots and describe them
+
+
+
+
 
 D.Text Classification with an RNN
 
