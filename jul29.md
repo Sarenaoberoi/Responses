@@ -4,7 +4,7 @@
 CNN: 
 sentence = ["four tech titans face grilling over their dominance", "gop congressman who frequently refuses to wear a mask tests positive", "kendall jenner opens the doors to her bohemian la home", "Some kids are scared theyll get sick at school", "obamas reflect on how they used elite education and access to help empower their communities"]
 
-[[2.2702990e-05]
+[[2.2702990e-05] - 
  [3.1110308e-01]
  [8.0594087e-14]
  [1.1602519e-01]
@@ -30,6 +30,12 @@ sentence = ["four tech titans face grilling over their dominance", "gop congress
  [6.7119390e-02]
  [3.0054558e-08]]
  
+ THE ONION:
+ sentence = ["Whoopsies: The Vatican Has Ruled That Nintendo Committed A Venial Sin After Imbuing Lifeless Paper Products With The Soul Of Mario", "Mom Calls Daughter In Panic After Ultra-Realistic Nightmare That She Chopped Off Her Beautiful Hair", "toddler feels somewhat torn about pretending to be policeman in current climate"]
+
+ [[1.9044528e-04]
+ [3.6385825e-10]
+ [9.8533964e-01]]
  
  ## 2)
  
