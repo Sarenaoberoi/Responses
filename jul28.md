@@ -3,7 +3,8 @@ Why is using one-hot encoding an inefficient towards vectorizing a corpus of wor
 
 As talked about in the tensorflow exercise and Lawrence Maroney's video, one-hot encoding is an interesting (but somewhat inefficient) way to encode words. With one-hot encoding, one goal is to keep a uniform length in regards to the longest sentence, so each word will have 0's up until the word (and a 1 for the word). For example, if the sentence was "I love apples", one-hot encoding would look something like this:
 
-ADD PIC 
+<img width="576" alt="Screen Shot 2020-07-29 at 11 24 37 AM" src="https://user-images.githubusercontent.com/60228365/88819577-300de680-d18e-11ea-9088-01c294201f4f.png">
+
 
 As we can see from the picture above, the majority of spaces are 0 (a sparse vector). Because of this, one-hot encoding is pretty inefficient. In order to create a more dense vector, known as word embeddings, we could assign a different number to each word. For example, for the sentence "the chocolate is in the cabinet", the to 1, chocolate to 2, is to 3, in to 4, and cabinet to 5:
 
