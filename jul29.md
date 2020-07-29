@@ -1,6 +1,6 @@
+# Responses 
 
-
-1) 
+## 1) 
 CNN: 
 sentence = ["four tech titans face grilling over their dominance", "gop congressman who frequently refuses to wear a mask tests positive", "kendall jenner opens the doors to her bohemian la home", "Some kids are scared theyll get sick at school", "obamas reflect on how they used elite education and access to help empower their communities"]
 
@@ -31,4 +31,101 @@ sentence = ["four tech titans face grilling over their dominance", "gop congress
  [3.0054558e-08]]
  
  
+ ## 2)
+ 
+ First time running generate_text() command:
+ 
+ ROMEO: Norboly us,
+We time on the contrast upon my knees redeyman.
+
+BIANCA:
+Farewell; my lord
+Hastings on the spotes from the father with a banishmy, come
+Is all these plause west.
+
+NORTHUMBERLAND:
+These pleasurthere from by you,--
+That we banis high spides; if that the
+dukes he is Old Twomach you sway, once have
+do better stwear, and so your spirits cold feigned
+May compain with trurions, welcome.
+
+SICINIUS:
+I say it is, I
+know now? a, shall I reis and knows not fears;
+It was the need slaves a subject storm;
+And if thou that envious Capulet,
+Sister!---
+
+SICon,
+While earth too.
+
+MIRAPDWAR:
+
+JOHN OF GAUNT:
+That is his very heart; and how he art thou
+shalt doth.
+
+Messenger:
+The people and weepand minteers in prisoner.
+
+DUCHESS OF YORK:
+What, art chattest there?
+
+MENENIUS:
+Better; if, come.
+
+POLIXENES:
+Have you note off from these you are?
+
+QUEEN MARGARET:
+Bloody protector far to dine with beholding
+Upon the sword of that her brook the world, whose hose be Dized,
+A happiness, sire, a man can of 
+
+#### SECOND TIME RUNNING:
+
+ROMEO: You will brought when he hath
+A be o' the gods, much grows there want these the king?
+
+DUKE VINCENTIO:
+Well, would your ignory?
+
+WARWICK:
+The end o' judgm'd it, and your honours
+Embrach with a numb' bunisle you:
+'Tis fled the men of choose well talk outward.
+Mummile up my body: be you
+with him! be good and friends, then plasubed my letters; although I be given it would weep,
+The next watharing tedood of you. We'll buly
+But conduct his cares your hands.
+
+POLIXENES:
+Here's not yours, from arch, or when myself with
+Any showers gave: boldly naked, nor look upon: he slew her?
+Dool the day o' the season were knot with crowns death.
+
+GLOUCESTER:
+The geerest loving-sake drunk.
+
+RICHARD:
+Who had not send to speak there is on calo.
+
+CORIOLANUS:
+You to disgraced there.
+
+ESCALUS:
+To shrip the day, wheress of all the great sorrow.
+
+BENVOLIO:
+Look, the gods,--meam not out of his son,
+Enturious lord, you're tell's the wooft;
+O, thence thou art deceiving a lay my water!
+
+CAPULET:
+Come, crades! my mast
+
+
+## 3) 
+
 
