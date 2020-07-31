@@ -18,7 +18,7 @@ This third image showed a couple houses. The model predicted a population of 33.
 
 <img width="500" alt="Screen Shot 2020-07-27 at 1 54 47 PM" src="https://user-images.githubusercontent.com/60228365/88575686-45f69c80-d012-11ea-84c2-77f22e75069a.png">
 
-This image showed a number of trees. The population predicted for this image was 31.238304 while the true population from the csv file was 9.50581
+This image showed a number of trees. The population predicted for this image was 31.238304 while the true population from the csv file was 9.50581. -Same reasoning as image number two.- 
 
 <img width="484" alt="Screen Shot 2020-07-27 at 1 57 13 PM" src="https://user-images.githubusercontent.com/60228365/88575699-4858f680-d012-11ea-8200-8d005d118d1e.png">
 
