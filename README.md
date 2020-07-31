@@ -38,7 +38,7 @@
 
 1) [Response 1- Predict population from Project 3](https://Sarenaoberoi.github.io/Responses/jul27) (July, 27)
 
-2) [Response 2]() (July, 28)
+2) [Response 2](https://Sarenaoberoi.github.io/Responses/jul28) (July, 28)
 
 3) [Response 3]() (July, 29)
 
