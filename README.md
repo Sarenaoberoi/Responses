@@ -40,6 +40,6 @@
 
 2) [Response 2](https://Sarenaoberoi.github.io/Responses/jul28) (July, 28)
 
-3) [Response 3]() (July, 29)
+3) [Response 3](https://Sarenaoberoi.github.io/Responses/jul29) (July, 29)
 
-4) [Response 4]() (July, 30)
+4) [Project 4]() (July, 30)
