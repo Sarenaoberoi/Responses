@@ -30,12 +30,20 @@ sentence = ["four tech titans face grilling over their dominance", "gop congress
  [6.7119390e-02]
  [3.0054558e-08]]
  
- THE ONION:
- sentence = ["Whoopsies: The Vatican Has Ruled That Nintendo Committed A Venial Sin After Imbuing Lifeless Paper Products With The Soul Of Mario", "Mom Calls Daughter In Panic After Ultra-Realistic Nightmare That She Chopped Off Her Beautiful Hair", "toddler feels somewhat torn about pretending to be policeman in current climate"]
+ The Babylon Bee:
+ sentence = ["Dr. Fauci Recommends Encasing Your Entire Body In Bubble Wrap To Protect Against Coronavirus", "Nation Approves Plan To Push Hollywood Into Pacific Ocean", "Congress Members To Wear Barcodes So Lobbyists Can Scan Prices, Self-Checkout", "Man Who Gets Coronavirus Relieved He Can Finally Touch His Face All He Wants", "Founding Fathers Strapped Down In Graves To Prevent Further Spinning", "Aliens Report No Intelligent Life On Earth After Landing In Portland", "Millennial Drops Support For Socialism After Learning How Hard It Is To Get Avocado Toast In Venezuela"]
 
- [[1.9044528e-04]
- [3.6385825e-10]
- [9.8533964e-01]]
+[[9.9886167e-01]
+ [9.9995244e-01]
+ [9.9997568e-01]
+ [9.9946576e-01]
+ [9.9953842e-01]
+ [8.1983793e-01]
+ [3.2602070e-20]] 
+ 
+ 
+I began by choosing some of the most commmon new sources today such as CNN, Fox news, and FRANCE24. Many of the articles I chose were not sarcastic and the model was able to predict these correclty. However, there were a couple headlines that did have very sarcastic titles that the model was not able to catch. I then chose a news source that is known to have satirical headlines: The Babylon Bee. I was very surprised by how well the model was able to distinguish these sources! As you can see above, all of the headlines I chose under The Babylon Bee were very sarcastic and the model predicted 6 our of the 7 articles correclty (as sarcastic). I was shocked to see that one of the most sarcastic headlines ("Millennial Drops Support For Socialism After Learning How Hard It Is To Get Avocado Toast In Venezuela") was deemed non-sarcastic by the model. However, for the most part the model did a good job of distinguishing between sarcastic and non-sarcastic headlines.  
+ 
  
  ## 2)
  
