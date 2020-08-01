@@ -45,9 +45,11 @@ sentence = ["four tech titans face grilling over their dominance", "gop congress
 I began by choosing some of the most commmon new sources today such as CNN, Fox news, and FRANCE24. Many of the articles I chose were not sarcastic and the model was able to predict these correclty. However, there were a couple headlines that did have very sarcastic titles that the model was not able to catch. I then chose a news source that is known to have satirical headlines: The Babylon Bee. I was very surprised by how well the model was able to distinguish these sources! As you can see above, all of the headlines I chose under The Babylon Bee were very sarcastic and the model predicted 6 our of the 7 articles correclty (as sarcastic). I was shocked to see that one of the most sarcastic headlines ("Millennial Drops Support For Socialism After Learning How Hard It Is To Get Avocado Toast In Venezuela") was deemed non-sarcastic by the model. However, for the most part the model did a good job of distinguishing between sarcastic and non-sarcastic headlines.  
  
  
- ## 2)
+ ## 2) 
  
- First time running generate_text() command:
+This model works in a very interesting way, in that it begins without knowing a single word, but learns new words each time the model is run. The model is trained in batches of 100 characters, and with each run it becomes familiar with more and more words. The model is made up of three different layers: an input layer, an RNN layer, and and output layer. The loss function used is the sparse_categorical_crossentropy function and the optimizer used is Adam. The generate_text function is built on the basis of the RNN using informaiton it has learned from one character, to come up with a meaningful prediction for the next character. I think that the model did imporove from the first run to the second run. It seemed that there were a lot of words spelled wrong in the first run, and although there were words spelled incorrectly in the second run as well, I think that the second run did make more sense.   
+ 
+ #### First time running generate_text() command:
  
  ROMEO: Norboly us,
 We time on the contrast upon my knees redeyman.
