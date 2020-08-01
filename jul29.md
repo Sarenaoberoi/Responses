@@ -134,4 +134,16 @@ Come, crades! my mast
 
 ## 3) 
 
+The first setence I picked was "me gusta tu casa." (I like your house). This setence was translated perfectly!
 
+<img width="668" alt="Screen Shot 2020-07-31 at 10 43 20 PM" src="https://user-images.githubusercontent.com/60228365/89092387-6fe7f000-d37f-11ea-99b1-3c3617501d93.png">
+
+The second setence I picked was "¿Cómo esta el clima hoy?" (How's the weather today?). This setence was almost perfect but left out "today".
+
+<img width="679" alt="Screen Shot 2020-07-31 at 10 43 36 PM" src="https://user-images.githubusercontent.com/60228365/89092389-71b1b380-d37f-11ea-9713-b8d6e6de87f6.png">
+
+The last sentence I picked was "¿pusiste el pollo sobre la mesa para la cena?" (Did you put the chicken on the table for dinner). This translation made me laugh because it was completley incorrect. The model translated the setence to "do cats lock the cup".
+
+<img width="662" alt="Screen Shot 2020-07-31 at 10 43 47 PM" src="https://user-images.githubusercontent.com/60228365/89092390-737b7700-d37f-11ea-8737-85d417c83a01.png">
+
+I was surprised by the accuracy of the model. It seemed that it was able to correctly translate simple setences, but once the sentences became slightly more complex, the model really struggled to produce the correct translation. This idea can be seen clearly with the last sentence I used. 
