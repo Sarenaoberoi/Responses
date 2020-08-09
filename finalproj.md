@@ -33,7 +33,7 @@ I used the model to predict the severity of a  healthy looking eye (as shown bel
 
 The final model created by the data science team included image processing code that extracted some of the main features from each image. The scientists also applied gaussian blur and image augmentation in order to get a more comprehensive view of the fundus, including rotated and cropped pictures. This in-depth view of the varying images improved the performance of the model altogether.
 
-As I explained above, I noticed that a lot of the data included images of individuals with no DR (0), which made the model good at 
+As I explained above, I noticed that a lot of the data included images of individuals with no DR (0), which made the model good at predicting individuals with no DR, but not individuals with any other severity level. For the future, I think I could try to split up the data and include an equal number of images with no DR, mild DR, moderate DR, severe DR, and proliferative DR. That way, the model will have an equal amount of images from each severity level, giving it the opportunity to have an equal understanding of each level. With this, it will be able to more accuratley predict the different images I feed in.     
 
 ![Messages Image(3045620765)](https://user-images.githubusercontent.com/60228365/89743687-84a93f80-da73-11ea-8569-411a45458392.png)
 
